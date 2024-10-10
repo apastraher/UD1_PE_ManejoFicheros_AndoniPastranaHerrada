@@ -1,0 +1,6 @@
+mvc\modelo\Jugador.class
+mvc\vista\VisConsola.class
+mvc\modelo\IDAO.class
+mvc\vista\IVista.class
+run\Run.class
+mvc\controlador\Controlador.class

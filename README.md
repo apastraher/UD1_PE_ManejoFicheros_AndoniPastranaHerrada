@@ -21,14 +21,3 @@ El proyecto sigue un patrón de diseño conocido como MVC (Modelo, Vista, Contro
 - **Vista**: Maneja la interacción con el usuario. La clase `VisConsola` muestra un menú y recoge la entrada del usuario.
 - **Controlador**: Actúa como intermediario entre la vista y el modelo. La clase `Controlador` gestiona las operaciones solicitadas por el usuario.
 
-## Cómo Usar
-
-1. **Clona el repositorio** en tu máquina local.
-2. **Compila el proyecto** con un IDE compatible con Java.
-3. **Ejecuta el programa** y sigue las instrucciones en la consola para gestionar los jugadores.
-
-## Requisitos
-
-- Java 8 o superior
-- IDE compatible con Java (como IntelliJ IDEA o Eclipse)
-
